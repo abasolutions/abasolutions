@@ -7,7 +7,7 @@
   - ANGULAR
   - NODE.JS
   - GIT
-- 🌱 I’m currently learning REACT and DevOps Essentials. 
+- 🌱 I’m currently learning JAVA and DevOps Essentials. 
 - 💞️ I’m looking to collaborate on Open Source Projects in which I can use my Stacks and get valuable experience. 
 - 📫 You can reach me on GitHub or E-Mail, aba.fedeveloper@gmail.com.
 
